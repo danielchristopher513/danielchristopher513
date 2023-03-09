@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###Hi there, I'm a tech-savvy BTech student seeking a summer internship!
+### Hi there, I'm a tech-savvy BTech student seeking a summer internship!
 Welcome to my Github page! I'm a passionate and motivated student at PESU College, Bangalore, eager to enhance my skills and gain hands-on experience in the field of technology. As a quick learner and a problem solver, I believe in taking calculated risks to achieve my goals and create impactful projects.
 
 At heart, I'm a team player who thrives in a collaborative environment. I'm always excited to work with like-minded individuals who are passionate about technology and share a common goal of creating innovative solutions that make a difference.
