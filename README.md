@@ -1,5 +1,5 @@
 ### Hi there I'm Daniel  👋
-
+[Linkedin](https://www.linkedin.com/in/jp-daniel-christopher-9a21a81ba/)
 <!--
 **danielchristopher513/danielchristopher513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
