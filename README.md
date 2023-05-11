@@ -22,7 +22,7 @@ At heart, I'm a team player who thrives in a collaborative environment. I'm alwa
 
 I'm eager to find an internship opportunity where I can apply my skills and knowledge to work on impactful projects. Whether it's software development, data analysis,Database Management Systems or machine learning, I'm ready to roll up my sleeves and dive in.
 
-My Github page is a testament to my skills and interests. You'll find a variety of projects that demonstrate my ability to code in languages such as Python, Javascript,PHP,MySQL and C. I've worked on projects ranging from building websites  to creating machine learning models and analyzing data.
+My Github page is a testament to my skills and interests. You'll find a variety of projects that demonstrate my ability to code in languages such as Python,Java,C++, Javascript,PHP,MySQL and C. I've worked on projects ranging from building websites  to creating machine learning models and analyzing data.
 
 I'm excited to join a team where I can contribute my skills, learn new things, and make an impact in the field. So if you're looking for a motivated and skilled intern who's ready to take on new challenges, please don't hesitate to get in touch. Let's create something awesome together!
 
